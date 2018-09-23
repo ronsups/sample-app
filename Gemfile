@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'bootstrap-sass', '3.3.7'
 gem 'rails',        '5.0.1'
+gem 'bcrypt',       '3.1.12'
 gem 'puma',         '3.12.0'
 gem 'sass-rails',   '5.0.6'
 gem 'uglifier',     '3.0.0'
